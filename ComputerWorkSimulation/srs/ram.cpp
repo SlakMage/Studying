@@ -2,7 +2,6 @@
 // Created by Михаил on 9/7/2023.
 //
 #include "../include/ram.h"
-#include <vector>
 
 std::vector<int> y;
 

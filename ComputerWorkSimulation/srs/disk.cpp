@@ -2,6 +2,7 @@
 // Created by Михаил on 9/7/2023.
 //
 #include "../include/disk.h"
+#include "../include/ram.h"
 #include <fstream>
 
 void save (std::vector<int> x){
