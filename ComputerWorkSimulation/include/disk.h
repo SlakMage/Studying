@@ -1,6 +1,5 @@
 #pragma once
 #include <vector>;
-#include "../srs/disk.cpp"
 //
 // Created by Михаил on 9/7/2023.
 //

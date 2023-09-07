@@ -1,5 +1,4 @@
 #include <iostream>
-#include "../include/ram.h"
 #include "../include/disk.h"
 #include "../include/cpu.h"
 #include "../include/kbd.h"
@@ -7,9 +6,9 @@
 
 
 
-
 int main() {
     std::string command;
+    std::vector<int> y;
     while (command == "exit") {
         std::cout << "Enter command" << std::endl;
         std::cin >> command;
